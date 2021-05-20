@@ -1,0 +1,16 @@
+
+     a:link{
+        color: rgb(255, 254, 253);
+        background-color: dimgrey;
+        
+        }
+        a:visited{
+        color: rgb(250, 246, 246);
+        background-color: rgb(80, 78, 90);
+        }
+        a:hover{
+        color: rgb(14, 14, 15);
+        background-color: dimgrey;
+        }
+    
+    
